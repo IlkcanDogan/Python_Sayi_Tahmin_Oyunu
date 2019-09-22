@@ -17,3 +17,9 @@ while True:
 
 	except:
 		print("Lütfen Sadece Sayı Giriniz!!!")
+		
+		
+		
+		
+		
+		
